@@ -1,0 +1,11 @@
+body, html {
+    margin: 0;
+}
+
+body {
+    font-family: 'PT Mono', monospace;
+}
+
+h1 {
+    font-family: 'Amatic SC', 'PT Mono', cursive;
+}
